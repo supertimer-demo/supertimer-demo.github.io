@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Decorative music notes background">
+  <rect width="1600" height="900" fill="#3f1d2b"/>
+  <g fill="none" stroke="#b0893f" stroke-width="4" opacity="0.35">
+    <path d="M100 220 C300 120, 460 340, 650 220 S1020 140, 1240 260 S1450 420, 1530 300"/>
+    <path d="M60 650 C280 500, 440 760, 660 620 S1030 520, 1260 660 S1460 780, 1560 640"/>
+  </g>
+  <g fill="#fbf8f1" opacity="0.18" font-family="Georgia, serif" font-size="160">
+    <text x="210" y="420">♪</text>
+    <text x="1090" y="360">♫</text>
+    <text x="760" y="720">♬</text>
+  </g>
+</svg>
