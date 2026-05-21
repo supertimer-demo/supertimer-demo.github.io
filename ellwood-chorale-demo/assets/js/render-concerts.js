@@ -15,7 +15,9 @@
     return `${dateText} · ${timeText}`;
   }
 
-  function isPast(concert) { return eventDate(concert).getTime() < Date.now(); }
+  // hard-coding the date for the time being
+  const today = new Date("2026-05-20");
+  function isPast(concert) { return eventDate(concert).getTime() < today /* Date.now() */; }
 
   function createConcertCard(concert) {
     const article = document.createElement('article');
