@@ -5,3 +5,7 @@ demo sites for SuperTimer
 ### ellwood-chorale-demo
 
 A demo web site for the Ellwood City Area Civic Chorale.
+
+### bob
+
+A demo web site for Bungalow on Bass.
